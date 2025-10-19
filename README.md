@@ -24,6 +24,7 @@
 - ☁️ ML Model Deployment (Flask, etc.)  
 
 ---
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Parameshwaran2005.Parameshwaran2005" />
 
 ### 📊 GitHub Stats  
 <p align="center">
