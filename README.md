@@ -3,7 +3,16 @@
 ### 👀 About Me  <br>- 🚀 Deeply curious about **Coding** and **Artificial Intelligence / Machine Learning**  <br>- 🌱 Currently learning & building in **AI/ML**  <br>- 🤝 Open to collaborate on **smaller but meaningful projects**  <br>*-------------------------------------------------*<br>
 ### 🌐 Connect With Me  <br><p align="left"><br><a href="https://www.instagram.com/invulnerable_23/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a><br><a href="https://www.linkedin.com/in/parameshwaran-udayar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br></p><br>*-------------------------------------------------*<br>
 ### ⚡ Tech Interests  <br>- 🧠 Machine Learning & Artificial Intelligence  <br>- ☁️ ML Model Deployment (Flask, etc.)  <br>*-------------------------------------------------*<br><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Parameshwaran2005.Parameshwaran2005" /><br>
-### 📊 GitHub Stats  <br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Parameshwaran2005&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true" alt="GitHub stats" /><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parameshwaran2005&layout=compact&theme=tokyonight" alt="Top Languages" /><br></p><br><br>*-------------------------------------------------*<br>✨ *“Code. Learn. Build. Repeat.”* ✨<br>
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parameshwaran2005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parameshwaran2005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parameshwaran2005&theme=tokyonight" />
+</p>
+
+
+✨ *“Code. Learn. Build. Repeat.”* ✨
+
 
 
 ### 🌐 Socials:
